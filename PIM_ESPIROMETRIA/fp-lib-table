@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SensorPresMan") (type "KiCad") (uri "C:/Users/vsale/OneDrive/Escritorio/BRONQUITO/male/Kicad/SensorPresMan.pretty") (options "") (descr ""))
+)
