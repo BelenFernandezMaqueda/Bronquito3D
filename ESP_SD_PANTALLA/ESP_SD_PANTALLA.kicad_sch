@@ -3479,7 +3479,7 @@
 		)
 		(uuid "21d63f37-331d-4ce1-8ffd-7d863c91ab56")
 	)
-	(label "GPIO18"
+	(label "GPIO22"
 		(at 176.53 187.96 0)
 		(effects
 			(font
@@ -4040,7 +4040,7 @@
 		)
 		(uuid "dcc3ce3f-8cc3-4760-b076-e3502d60a968")
 	)
-	(label "GPIO17"
+	(label "GPIO21"
 		(at 176.53 185.42 0)
 		(effects
 			(font
