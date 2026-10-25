@@ -691,7 +691,7 @@
         "uuid": "89fae60d-600d-4741-8e0e-94d29390dbe0"
       }
     ],
-    "used_designators": "C1-7,R1-6,J1-9,U1-6,RV1",
+    "used_designators": "C1-15,R1-24,J1-9,U1-7,RV1,SensorPIM1",
     "variants": []
   },
   "sheets": [
