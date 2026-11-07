@@ -1,0 +1,15 @@
+# Historial local de KiCad (cada carpeta .history es un repositorio propio de KiCad)
+.history/
+**/.history/
+
+# Respaldos y archivos temporales de KiCad
+*-backups/
+~*.zip
+*.lck
+fp-info-cache
+_autosave-*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
